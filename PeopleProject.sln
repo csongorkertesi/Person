@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PeopleProject", "PeopleProject.csproj", "{5FB82AD0-3732-44B5-82B6-E77D6763499B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestPeopleProject", "..\TestPeopleProject\TestPeopleProject.csproj", "{2EA4756F-538B-4986-AABB-B61623C951D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5FB82AD0-3732-44B5-82B6-E77D6763499B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FB82AD0-3732-44B5-82B6-E77D6763499B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FB82AD0-3732-44B5-82B6-E77D6763499B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FB82AD0-3732-44B5-82B6-E77D6763499B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2EA4756F-538B-4986-AABB-B61623C951D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EA4756F-538B-4986-AABB-B61623C951D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EA4756F-538B-4986-AABB-B61623C951D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EA4756F-538B-4986-AABB-B61623C951D5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
